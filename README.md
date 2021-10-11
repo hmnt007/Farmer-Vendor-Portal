@@ -6,6 +6,6 @@ Vendors like restaurant owners, small vendors and individuals can directly buy t
 
 # Features:
 Buying/Selling various types of products.
-Users authentication (basic)
-Order status
-Payments
+Users authentication (basic).
+Order status.
+Payments.
