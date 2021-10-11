@@ -1,4 +1,4 @@
-# Farmer_Vendor
+# Farmer-Vendor-Portal
 
 # Basic Idea:
 A Farmer-Vendor portal where users can list their crops, vegetables etc.
